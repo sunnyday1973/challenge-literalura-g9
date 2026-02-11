@@ -40,7 +40,7 @@ public class LiterAlura {
                     1 - Listar libros
                     2 - Buscar libro por título
                     3 - Mostrar autores de libros buscados
-                    4 - Mostrar autores vivos en determinado año de libros buscados
+                    4 - Mostrar autores de libros buscados vivos en determinado año
                     5 - Mostrar cantidad de libros buscados en un determinado idioma
                     ---------------------------
                     0 - Salir
