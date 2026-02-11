@@ -1,6 +1,6 @@
 ![Alura + One](./img/alura.png)
 
-# Challenge ONE  # challenge-literalura-g9
+# Challenge ONE
 ## LiterAlura - Challenge Java - G9
 
 Se usa API [Gutendex](https://gutendex.com/) para buscar libros y guardarlos en la BBDD local, para consultas posteriores. Project Gutenberg (biblioteca en línea y gratuita) tiene un catálogo de información de más de 70.000 libros.
